@@ -1,0 +1,79 @@
+C:\Users\JCarlos ArcilaD\AppData\Local\Temporary Projects\SisVentas\bin\Debug\SisVentas.exe.config
+C:\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+C:\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+C:\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
+C:\SisVentas\SisVentas\bin\Debug\SisVentas.exe.manifest
+C:\SisVentas\SisVentas\bin\Debug\SisVentas.application
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.exe.manifest
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.application
+C:\SisVentas - copia\SisVentas\bin\Debug\SisVentas.exe.config
+C:\SisVentas - copia\SisVentas\obj\Debug\SisVentas.exe
+C:\SisVentas - copia\SisVentas\obj\Debug\SisVentas.pdb
+C:\SisVentas - copia\SisVentas\bin\Debug\SisVentas.exe.manifest
+C:\SisVentas - copia\SisVentas\bin\Debug\SisVentas.application
+C:\SisVentas - copia\SisVentas\bin\Debug\SisVentas.exe
+C:\SisVentas - copia\SisVentas\bin\Debug\SisVentas.pdb
+C:\SisVentas - copia\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\SisVentas - copia\SisVentas\bin\Debug\CapaNegocio.dll
+C:\SisVentas - copia\SisVentas\bin\Debug\CapaDatos.dll
+C:\SisVentas - copia\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\SisVentas - copia\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\SisVentas - copia\SisVentas\bin\Debug\CapaDatos.pdb
+C:\SisVentas - copia\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\SisVentas - copia\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\SisVentas - copia\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\SisVentas - copia\SisVentas\obj\Debug\SisVentas.exe.manifest
+C:\SisVentas - copia\SisVentas\obj\Debug\SisVentas.application
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.exe.manifest
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.application
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.exe.manifest
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.application
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\bin\Debug\SisVentas.exe.manifest
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\bin\Debug\SisVentas.application
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\obj\Debug\SisVentas.exe.manifest
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\obj\Debug\SisVentas.application
+E:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\obj\Debug\SisVentas.TrustInfo.xml
+F:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+F:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+F:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+F:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+F:\SISTEMA DE VENTAS 2016\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config

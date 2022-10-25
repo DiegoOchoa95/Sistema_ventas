@@ -1,0 +1,24 @@
+C:\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\SisVentas - copia\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\SisVentas - copia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\SisVentas - copia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\SisVentas - copia\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\SisVentas - copia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\SisVentas - copia\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+E:\SISTEMA DE VENTAS 2016\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\SISTEMA DE VENTAS 2016\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+E:\SISTEMA DE VENTAS 2016\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+E:\SISTEMA DE VENTAS 2016\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\SISTEMA DE VENTAS 2016\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\SISTEMA DE VENTAS 2016\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+E:\SISTEMA DE VENTAS 2016\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
